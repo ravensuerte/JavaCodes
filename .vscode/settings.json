@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "methodss/src",
+        "Atmmachine/src",
+        "Arrays/src",
+        "AWT/src",
+        "AWT"
+    ]
+}
